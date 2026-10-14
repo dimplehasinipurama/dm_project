@@ -164,6 +164,5 @@ The notebook produces model evaluation metrics and visualizations for comparing 
 - Investigate whether cluster patterns are meaningful and useful for food-waste reduction.
 - Add reproducible experiment settings and document the dataset source.
 
-## Author
-
-Add your name, team name, course, or institution here if you want to include project credits.
+## Website Link
+https://dmcapstoneproject-2026.streamlit.app 
