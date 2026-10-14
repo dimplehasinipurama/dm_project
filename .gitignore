@@ -1,0 +1,16 @@
+# environments
+venv/
+.venv/
+env/
+# caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+# secrets / local config
+.env
+.streamlit/secrets.toml
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
